@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: eyny.com
+Token: 422df059f11c976c4c4f5650a4ed651fdc010bc4241790b6f6f0f1daa5e33652
