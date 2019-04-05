@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: gamer.com.tw
-Token: 79bcd54d1681f194977981b4aca58728ff8e88dde923363c61627922d876dd37
