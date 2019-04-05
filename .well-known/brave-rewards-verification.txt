@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: ck101.com
+Token: 47c3aa48093f8e86d3b99a76ed2727296fe7a69846ec6e1ec077e665ab360e96
